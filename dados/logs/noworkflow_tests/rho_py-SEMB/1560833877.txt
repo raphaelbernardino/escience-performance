@@ -1,0 +1,23 @@
+[+] test.py is running with process id 32327
+## execution_time, syscr, syscw, read_bytes, write_bytes, resident memory, %cpu, cpu total time, elapsed time, number of threads, process id, arguments
+0 13 0 0 0 8.10547 0.0 00:00:00 00:00 1 32327 /home/kappa/MEGAsync/testes-escience/noworkflow/noworkflow-env/bin/python3 /home/kappa/MEGAsync/testes-escience/noworkflow/noworkflow-env/bin/now run test.py 
+1 1567 1 0 0 62.5391 102 00:00:01 00:01 1 32327 /home/kappa/MEGAsync/testes-escience/noworkflow/noworkflow-env/bin/python3 /home/kappa/MEGAsync/testes-escience/noworkflow/noworkflow-env/bin/now run test.py 
+2 1954 79 0 131072 72.9492 86.5 00:00:01 00:02 1 32327 /home/kappa/MEGAsync/testes-escience/noworkflow/noworkflow-env/bin/python3 /home/kappa/MEGAsync/testes-escience/noworkflow/noworkflow-env/bin/now run test.py 
+3 1954 79 0 131072 72.9492 91.3 00:00:02 00:03 1 32327 /home/kappa/MEGAsync/testes-escience/noworkflow/noworkflow-env/bin/python3 /home/kappa/MEGAsync/testes-escience/noworkflow/noworkflow-env/bin/now run test.py 
+4 1954 79 0 131072 72.9492 94.0 00:00:03 00:04 1 32327 /home/kappa/MEGAsync/testes-escience/noworkflow/noworkflow-env/bin/python3 /home/kappa/MEGAsync/testes-escience/noworkflow/noworkflow-env/bin/now run test.py 
+5 1954 79 0 131072 72.9492 95.6 00:00:04 00:05 1 32327 /home/kappa/MEGAsync/testes-escience/noworkflow/noworkflow-env/bin/python3 /home/kappa/MEGAsync/testes-escience/noworkflow/noworkflow-env/bin/now run test.py 
+6 1954 79 0 131072 73.0625 96.5 00:00:05 00:06 1 32327 /home/kappa/MEGAsync/testes-escience/noworkflow/noworkflow-env/bin/python3 /home/kappa/MEGAsync/testes-escience/noworkflow/noworkflow-env/bin/now run test.py 
+7 1954 79 0 131072 73.0625 97.2 00:00:06 00:07 1 32327 /home/kappa/MEGAsync/testes-escience/noworkflow/noworkflow-env/bin/python3 /home/kappa/MEGAsync/testes-escience/noworkflow/noworkflow-env/bin/now run test.py 
+8 1954 79 0 131072 73.3164 97.8 00:00:07 00:08 1 32327 /home/kappa/MEGAsync/testes-escience/noworkflow/noworkflow-env/bin/python3 /home/kappa/MEGAsync/testes-escience/noworkflow/noworkflow-env/bin/now run test.py 
+9 1954 79 0 131072 73.3164 98.2 00:00:08 00:09 1 32327 /home/kappa/MEGAsync/testes-escience/noworkflow/noworkflow-env/bin/python3 /home/kappa/MEGAsync/testes-escience/noworkflow/noworkflow-env/bin/now run test.py 
+10 1954 79 0 131072 73.3164 98.6 00:00:09 00:10 1 32327 /home/kappa/MEGAsync/testes-escience/noworkflow/noworkflow-env/bin/python3 /home/kappa/MEGAsync/testes-escience/noworkflow/noworkflow-env/bin/now run test.py 
+11 1954 79 0 131072 73.3164 98.8 00:00:10 00:11 1 32327 /home/kappa/MEGAsync/testes-escience/noworkflow/noworkflow-env/bin/python3 /home/kappa/MEGAsync/testes-escience/noworkflow/noworkflow-env/bin/now run test.py 
+12 1954 79 0 131072 73.3164 99.0 00:00:11 00:12 1 32327 /home/kappa/MEGAsync/testes-escience/noworkflow/noworkflow-env/bin/python3 /home/kappa/MEGAsync/testes-escience/noworkflow/noworkflow-env/bin/now run test.py 
+13 1954 79 0 131072 73.3164 99.2 00:00:12 00:13 1 32327 /home/kappa/MEGAsync/testes-escience/noworkflow/noworkflow-env/bin/python3 /home/kappa/MEGAsync/testes-escience/noworkflow/noworkflow-env/bin/now run test.py 
+14 1954 79 0 131072 73.3164 99.4 00:00:13 00:14 1 32327 /home/kappa/MEGAsync/testes-escience/noworkflow/noworkflow-env/bin/python3 /home/kappa/MEGAsync/testes-escience/noworkflow/noworkflow-env/bin/now run test.py 
+15 1954 79 0 131072 73.3164 99.5 00:00:14 00:15 1 32327 /home/kappa/MEGAsync/testes-escience/noworkflow/noworkflow-env/bin/python3 /home/kappa/MEGAsync/testes-escience/noworkflow/noworkflow-env/bin/now run test.py 
+16 2077 518 0 1044480 74.3398 96.7 00:00:15 00:16 1 32327 /home/kappa/MEGAsync/testes-escience/noworkflow/noworkflow-env/bin/python3 /home/kappa/MEGAsync/testes-escience/noworkflow/noworkflow-env/bin/now run test.py 
+17 2332 1409 0 2891776 75.1875 91.2 00:00:15 00:17 1 32327 /home/kappa/MEGAsync/testes-escience/noworkflow/noworkflow-env/bin/python3 /home/kappa/MEGAsync/testes-escience/noworkflow/noworkflow-env/bin/now run test.py 
+18 2799 3228 0 6664192 74.5859 86.3 00:00:15 00:18 1 32327 /home/kappa/MEGAsync/testes-escience/noworkflow/noworkflow-env/bin/python3 /home/kappa/MEGAsync/testes-escience/noworkflow/noworkflow-env/bin/now run test.py 
+19 4452 36594 0 19734528 77.1094 82.5 00:00:15 00:19 1 32327 /home/kappa/MEGAsync/testes-escience/noworkflow/noworkflow-env/bin/python3 /home/kappa/MEGAsync/testes-escience/noworkflow/noworkflow-env/bin/now run test.py 
+20 4837 38113 0 22876160 76.0273 78.5 00:00:15 00:20 1 32327 /home/kappa/MEGAsync/testes-escience/noworkflow/noworkflow-env/bin/python3 /home/kappa/MEGAsync/testes-escience/noworkflow/noworkflow-env/bin/now run test.py 

@@ -1,0 +1,27 @@
+#!/usr/bin/gnuplot
+reset
+set terminal svg
+
+ntics = 100
+stats log_name using 1 name 'x' nooutput
+intervalx = x_max/ntics
+#set xtics intervalx
+
+set xdata time
+set timefmt "%s"
+set format x "%H:%M:%S"
+set xtics rotate by -45
+
+set xlabel "time"
+set ylabel "resources"
+set title tname
+set key reverse Left outside
+set grid
+#set style data linespoints
+set style data lines
+
+plot log_name using 1:2 title "syscr", \
+"" using 1:3 title "syscw", \
+"" using 1:4 title "br", \
+"" using 1:5 title "bw"
+#

@@ -1,0 +1,16 @@
+[+] test.py is running with process id 30372
+## execution_time, syscr, syscw, read_bytes, write_bytes, resident memory, %cpu, cpu total time, elapsed time, number of threads, process id, arguments
+0 12 0 0 0 8.56641 0.0 00:00:00 00:00 1 30372 python3 test.py 
+1 83 0 0 0 9.72656 51.5 00:00:01 00:02 1 30372 python3 test.py 
+2 83 0 0 0 9.72656 68.0 00:00:02 00:03 1 30372 python3 test.py 
+3 83 0 0 0 9.72656 76.5 00:00:03 00:04 1 30372 python3 test.py 
+4 83 0 0 0 9.72656 81.4 00:00:04 00:05 1 30372 python3 test.py 
+5 83 0 0 0 9.72656 84.8 00:00:05 00:06 1 30372 python3 test.py 
+6 83 0 0 0 9.72656 87.1 00:00:06 00:07 1 30372 python3 test.py 
+7 83 0 0 0 9.72656 89.0 00:00:07 00:08 1 30372 python3 test.py 
+8 83 0 0 0 9.72656 90.3 00:00:08 00:09 1 30372 python3 test.py 
+9 83 0 0 0 9.72656 91.5 00:00:09 00:10 1 30372 python3 test.py 
+10 83 0 0 0 9.72656 92.3 00:00:10 00:11 1 30372 python3 test.py 
+11 83 0 0 0 9.72656 93.1 00:00:11 00:12 1 30372 python3 test.py 
+12 83 0 0 0 9.72656 93.7 00:00:12 00:13 1 30372 python3 test.py 
+13 83 0 0 0 9.72656 94.3 00:00:13 00:14 1 30372 python3 test.py 

@@ -1,0 +1,20 @@
+[+] test.py is running with process id 9804
+## execution_time, syscr, syscw, read_bytes, write_bytes, resident memory, %cpu, cpu total time, elapsed time, number of threads, process id, arguments
+0 13 0 0 0 8.13672 0.0 00:00:00 00:00 1 9804 /home/kappa/MEGAsync/testes-escience/noworkflow/noworkflow-env/bin/python3 /home/kappa/MEGAsync/testes-escience/noworkflow/noworkflow-env/bin/now run -b test.py 
+1 1567 1 0 0 62.5938 102 00:00:01 00:01 1 9804 /home/kappa/MEGAsync/testes-escience/noworkflow/noworkflow-env/bin/python3 /home/kappa/MEGAsync/testes-escience/noworkflow/noworkflow-env/bin/now run -b test.py 
+2 1943 63 0 98304 72.9688 90.5 00:00:01 00:02 1 9804 /home/kappa/MEGAsync/testes-escience/noworkflow/noworkflow-env/bin/python3 /home/kappa/MEGAsync/testes-escience/noworkflow/noworkflow-env/bin/now run -b test.py 
+3 1943 63 0 98304 72.9688 94.0 00:00:02 00:03 1 9804 /home/kappa/MEGAsync/testes-escience/noworkflow/noworkflow-env/bin/python3 /home/kappa/MEGAsync/testes-escience/noworkflow/noworkflow-env/bin/now run -b test.py 
+4 1943 63 0 98304 72.9688 96.0 00:00:03 00:04 1 9804 /home/kappa/MEGAsync/testes-escience/noworkflow/noworkflow-env/bin/python3 /home/kappa/MEGAsync/testes-escience/noworkflow/noworkflow-env/bin/now run -b test.py 
+5 1943 63 0 98304 72.9688 97.0 00:00:04 00:05 1 9804 /home/kappa/MEGAsync/testes-escience/noworkflow/noworkflow-env/bin/python3 /home/kappa/MEGAsync/testes-escience/noworkflow/noworkflow-env/bin/now run -b test.py 
+6 1943 63 0 98304 73.2266 97.8 00:00:05 00:06 1 9804 /home/kappa/MEGAsync/testes-escience/noworkflow/noworkflow-env/bin/python3 /home/kappa/MEGAsync/testes-escience/noworkflow/noworkflow-env/bin/now run -b test.py 
+7 1943 63 0 98304 73.4844 98.2 00:00:06 00:07 1 9804 /home/kappa/MEGAsync/testes-escience/noworkflow/noworkflow-env/bin/python3 /home/kappa/MEGAsync/testes-escience/noworkflow/noworkflow-env/bin/now run -b test.py 
+8 1943 63 0 98304 73.4844 98.7 00:00:07 00:08 1 9804 /home/kappa/MEGAsync/testes-escience/noworkflow/noworkflow-env/bin/python3 /home/kappa/MEGAsync/testes-escience/noworkflow/noworkflow-env/bin/now run -b test.py 
+9 1943 63 0 98304 73.4844 99.0 00:00:08 00:09 1 9804 /home/kappa/MEGAsync/testes-escience/noworkflow/noworkflow-env/bin/python3 /home/kappa/MEGAsync/testes-escience/noworkflow/noworkflow-env/bin/now run -b test.py 
+10 1943 63 0 98304 73.4844 99.3 00:00:09 00:10 1 9804 /home/kappa/MEGAsync/testes-escience/noworkflow/noworkflow-env/bin/python3 /home/kappa/MEGAsync/testes-escience/noworkflow/noworkflow-env/bin/now run -b test.py 
+11 1943 63 0 98304 73.4844 99.4 00:00:10 00:11 1 9804 /home/kappa/MEGAsync/testes-escience/noworkflow/noworkflow-env/bin/python3 /home/kappa/MEGAsync/testes-escience/noworkflow/noworkflow-env/bin/now run -b test.py 
+12 1943 63 0 98304 73.4844 99.6 00:00:11 00:12 1 9804 /home/kappa/MEGAsync/testes-escience/noworkflow/noworkflow-env/bin/python3 /home/kappa/MEGAsync/testes-escience/noworkflow/noworkflow-env/bin/now run -b test.py 
+13 1943 63 0 98304 73.4844 99.7 00:00:12 00:13 1 9804 /home/kappa/MEGAsync/testes-escience/noworkflow/noworkflow-env/bin/python3 /home/kappa/MEGAsync/testes-escience/noworkflow/noworkflow-env/bin/now run -b test.py 
+14 1943 63 0 98304 73.4844 99.9 00:00:13 00:14 1 9804 /home/kappa/MEGAsync/testes-escience/noworkflow/noworkflow-env/bin/python3 /home/kappa/MEGAsync/testes-escience/noworkflow/noworkflow-env/bin/now run -b test.py 
+15 1984 207 0 409600 74.1133 98.6 00:00:14 00:15 1 9804 /home/kappa/MEGAsync/testes-escience/noworkflow/noworkflow-env/bin/python3 /home/kappa/MEGAsync/testes-escience/noworkflow/noworkflow-env/bin/now run -b test.py 
+16 2241 1107 0 2318336 74.707 92.6 00:00:14 00:16 1 9804 /home/kappa/MEGAsync/testes-escience/noworkflow/noworkflow-env/bin/python3 /home/kappa/MEGAsync/testes-escience/noworkflow/noworkflow-env/bin/now run -b test.py 
+17 2852 31686 0 7507968 75.7031 87.9 00:00:14 00:17 1 9804 /home/kappa/MEGAsync/testes-escience/noworkflow/noworkflow-env/bin/python3 /home/kappa/MEGAsync/testes-escience/noworkflow/noworkflow-env/bin/now run -b test.py 

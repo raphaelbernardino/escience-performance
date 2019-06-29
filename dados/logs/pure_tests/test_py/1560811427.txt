@@ -1,0 +1,22 @@
+[+] test.py is running with process id 13925
+## execution_time, syscr, syscw, read_bytes, write_bytes, resident memory, %cpu, cpu total time, elapsed time, number of threads, process id, arguments
+0 12 0 0 0 7.73438 0.0 00:00:00 00:00 1 13925 python3 test.py 
+1 53 2 0 0 8.04688 1.0 00:00:00 00:01 1 13925 python3 test.py 
+2 53 4 0 0 8.04688 0.5 00:00:00 00:02 1 13925 python3 test.py 
+3 53 6 0 0 8.04688 0.3 00:00:00 00:03 1 13925 python3 test.py 
+4 53 8 0 0 8.04688 0.2 00:00:00 00:04 1 13925 python3 test.py 
+5 53 10 0 0 8.04688 0.2 00:00:00 00:05 1 13925 python3 test.py 
+6 53 12 0 0 8.04688 0.1 00:00:00 00:06 1 13925 python3 test.py 
+7 53 14 0 0 8.04688 0.1 00:00:00 00:07 1 13925 python3 test.py 
+8 53 16 0 0 8.04688 0.1 00:00:00 00:08 1 13925 python3 test.py 
+9 53 18 0 0 8.04688 0.1 00:00:00 00:09 1 13925 python3 test.py 
+10 53 20 0 0 8.04688 0.1 00:00:00 00:10 1 13925 python3 test.py 
+11 53 22 0 0 8.04688 0.0 00:00:00 00:11 1 13925 python3 test.py 
+12 53 24 0 0 8.04688 0.0 00:00:00 00:12 1 13925 python3 test.py 
+13 53 26 0 4096 8.04688 0.0 00:00:00 00:13 1 13925 python3 test.py 
+14 53 28 0 4096 8.04688 0.0 00:00:00 00:14 1 13925 python3 test.py 
+15 53 30 0 4096 8.04688 0.0 00:00:00 00:15 1 13925 python3 test.py 
+16 53 32 0 4096 8.04688 0.0 00:00:00 00:16 1 13925 python3 test.py 
+17 53 34 0 4096 8.04688 0.0 00:00:00 00:17 1 13925 python3 test.py 
+18 53 36 0 4096 8.04688 0.0 00:00:00 00:18 1 13925 python3 test.py 
+19 53 38 0 4096 8.04688 0.0 00:00:00 00:20 1 13925 python3 test.py 

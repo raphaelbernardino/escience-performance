@@ -1,0 +1,26 @@
+#!/usr/bin/gnuplot
+reset
+set terminal pdf
+
+#ntics = 100
+#stats log_name using 1 name 'x' nooutput
+#intervalx = x_max/ntics
+#set xtics intervalx
+
+set xdata time
+set timefmt "%s"
+set format x "%H:%M:%S"
+set xtics rotate by -45
+
+set xlabel "tempo (HH:MM:SS)"
+set ylabel "recursos"
+set title tname
+set key reverse Left outside
+set grid
+#set style data linespoints
+set style data lines
+
+plot    pure_log using 1:2 title "Pure", \
+        comb_log using 1:2 title "NoWorkflow B", \
+        semb_log using 1:2 title "NoWorkflow", \
+        smt_log using 1:2 title "Sumatra"

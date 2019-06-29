@@ -1,0 +1,10 @@
+Django==1.8.19
+django-tagging==0.4.6
+docutils==0.14
+future==0.17.1
+httplib2==0.12.3
+Jinja2==2.10.1
+MarkupSafe==1.1.1
+parameters==0.2.1
+pkg-resources==0.0.0
+Sumatra==0.7.4
